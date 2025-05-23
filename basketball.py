@@ -1,6 +1,24 @@
 import pygame
 
 
+# Their curls cascade, a silken sight,
+# Like sunlit waves, both dark and bright.
+# I wonder if each curl holds a story,
+# A love song whispered, full of glory.
+# Their laughter rings, a sweet refrain,
+# That dances through their curly mane.
+# I asked them once, "Do they get in your way?"
+# They smiled, "Only when they lead me to you each day!"
+# Their curls surround, a soft embrace,
+# Like gentle tendrils, finding their place.
+# I said their hair was a masterpiece to behold,
+# They blushed, "Just like your heart, brave and bold."
+# Their hair's a mystery, a tangled art,
+# But in their eyes, I see my counterpart.
+# And though I may try to make silly jokes,
+# My heart's the only truth this poem evokes.
+
+
 class Basketball(pygame.sprite.Sprite):
     def __init__(self, pos, player, time, direction):
         super().__init__(player.group)
